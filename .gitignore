@@ -1,0 +1,7 @@
+modules/*
+kernels/*
+wip/*
+*.zip
+*.gz
+*dt*
+zImage
